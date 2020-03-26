@@ -1,0 +1,32 @@
+body {
+  background: #dce6ef;
+  color: midnightblue;
+}
+
+h1 { 
+  margin-top: 50px;
+  font: bold 50px 'Playball';
+}
+
+h2 { 
+  margin-top: 50px;
+  font: 30px 'Playball';
+  margin-bottom: 10px;
+}
+
+.number {
+  height: 30px;
+  border-radius: 15px;
+  font-size: 20px;
+}
+
+#handbag-answer {
+  margin-top: 50px;
+  font: 30px 'VT323';
+  color: black;
+}
+
+button {
+  margin-top: 15px;
+  font: bold 22px 'VT323', monospace;
+}
